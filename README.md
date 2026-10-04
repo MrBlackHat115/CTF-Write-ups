@@ -1,2 +1,2 @@
-# Blue Team & CTF Write-ups
+# CTF Write-ups
 - A collection of Capture The Flag (CTF) and Security Operations Center (SOC) lab write-ups showcasing hands-on experience across offensive and defensive cybersecurity. Topics include vulnerability assessment, web exploitation, reverse engineering, digital forensics, cryptography, threat detection, incident response, log analysis, malware investigation, and SIEM-driven threat hunting.
