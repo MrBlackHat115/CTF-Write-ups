@@ -62,7 +62,6 @@
 - What two accounts had administrative privileges (other than the Administrator user)?
   - Jenny and Guest have administrative privileges.
 
-
 <img width="648" height="351" alt="image" src="https://github.com/user-attachments/assets/5d9b3753-fbd1-4018-93ae-cebe691983d3" />
 
 - What's the name of the scheduled task that is malicious.
@@ -115,6 +114,7 @@
 
 - What was the last port the attacker opened?
   - If we check out a strange rule in the firewall, we can see that the last port the attacker opened was `1337`
+
 <img width="916" height="650" alt="image" src="https://github.com/user-attachments/assets/c56d3abf-33e5-4c43-b80f-b404e083e294" />
 
 - Check for DNS poisoning, what site was targeted?
